@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="488"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="193" y="438" type="line"/>
+      <point x="69" y="268" type="line"/>
+      <point x="145" y="98" type="line"/>
+      <point x="233" y="98" type="line"/>
+      <point x="164" y="268" type="line"/>
+      <point x="281" y="438" type="line"/>
+    </contour>
+    <contour>
+      <point x="363" y="438" type="line"/>
+      <point x="239" y="268" type="line"/>
+      <point x="315" y="98" type="line"/>
+      <point x="403" y="98" type="line"/>
+      <point x="334" y="268" type="line"/>
+      <point x="451" y="438" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
