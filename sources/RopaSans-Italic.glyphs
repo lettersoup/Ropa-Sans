@@ -1,5 +1,8 @@
 {
 .appVersion = "937";
+DisplayStrings = (
+I
+);
 classes = (
 {
 automatic = 1;
@@ -3105,7 +3108,7 @@ rightKerningGroup = T;
 unicode = 0164;
 },
 {
-color = 8;
+color = 4;
 glyphname = Tcedilla;
 layers = (
 {
@@ -7325,7 +7328,7 @@ rightMetricsKey = caron.alt;
 unicode = 0165;
 },
 {
-color = 8;
+color = 4;
 glyphname = tcedilla;
 layers = (
 {
@@ -10676,15 +10679,6 @@ width = 180;
 }
 );
 unicode = 0020;
-},
-{
-glyphname = nbspace.001;
-layers = (
-{
-layerId = "F9064169-91CB-4D1F-AD97-42715B9ED178";
-width = 600;
-}
-);
 },
 {
 color = 4;
@@ -14396,6 +14390,7 @@ width = 350;
 );
 },
 {
+color = 4;
 glyphname = nbspace;
 layers = (
 {
@@ -14406,6 +14401,7 @@ width = 180;
 unicode = 00A0;
 },
 {
+color = 4;
 glyphname = CR;
 layers = (
 {
@@ -14416,6 +14412,7 @@ width = 180;
 unicode = 000D;
 },
 {
+color = 4;
 glyphname = NULL;
 layers = (
 {
